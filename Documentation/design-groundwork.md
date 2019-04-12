@@ -9,7 +9,7 @@ This is some of the sources that we will be taking into account while designing 
 * [HaptiMap](https://moodle.lth.se/pluginfile.php/38920/mod_resource/content/1/HaptiMap%20example%20apps.pdf) on page 31,
 how to make including button design for everyone. Possible to let blind people make us of the app (probably mostly the timer).   
 
-  <img src="https://github.com/Jesper-Berg/AIDGrupp7/blob/master/Pictures/blind-design.png?raw=true" align="middle" width="30%">
+  <img src="https://github.com/Jesper-Berg/AIDGrupp7/blob/master/Pictures/blind-design.png?raw=true" class="center" width="30%">
 * [Ljud och Metod](https://moodle.lth.se/pluginfile.php/43550/mod_resource/content/1/Ljud%20o%20metod.pdf) Lecture notes on
 using sounds as a way of informing the user of different actions and processes in a product. No conclusions yet, also touches on the subject above if we want to convert words to sounds.
 * [Gestures](https://moodle.lth.se/pluginfile.php/43103/mod_resource/content/1/Gestures.pdf), lecture on gestures. Since it is
@@ -35,6 +35,8 @@ This section will contain some data on why we have picked different visual desig
 
 * [The Power of White Spaces](https://www.interaction-design.org/literature/article/the-power-of-white-space) article talks about how important white space is to the design. 
 
+For this reason our Brand Name Font have own some of this charecteristicts. We went with [Abel](https://fonts.google.com/specimen/Abel), it has a clean design, some space between letters. We used capital letters since this will make the brand name highlighted and therefore more memorable. A popular font for newspapers and websites in the US with Abel being featured in more than 420 000 websites.
+
 ### COOKR App Layout
 
 * [Fitt's Law](https://www.interaction-design.org/literature/article/fitts-s-law-the-importance-of-size-and-distance-in-ui-design), important for how to build the layout of the app. For a good user experience there have to be easily accessible buttons that do not demand a lot of accuracy.
@@ -42,7 +44,8 @@ This section will contain some data on why we have picked different visual desig
 * [Eyetrack III:](https://www.poynter.org/archive/2004/eyetrack-iii-what-news-websites-look-like-through-readers-eyes/) What News Websites Look Like Through Readers’ Eyes. Explaines how bigger headlines generate less focus on information from users, the bigger the headlines tend to make users scan the site more. Regarding navigation it seemed like putting it in the top did the best. Shorter paragraphs do better than longer.
 * [The Power of White Spaces](https://www.interaction-design.org/literature/article/the-power-of-white-space) article talks about how important white space is to the design.   
    The take away is that we need a balance between Fitt's Law and white space. Also that the micro white space is important for the user to easily read the content.
-* [F-Shaped Pattern](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/) Our design can affect the pattern scanning. Data suggests that it doesn't have to be F-shaped, it can be avoided through good implementation of design.
+* [F-Shaped Pattern](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/) Our design can affect the pattern scanning. Data suggests that it doesn't have to be F-shaped, it can be avoided through good implementation of design. The F-Shape pattern is a bad way for users to interact and read information in our app, we need to think about good design to avoid this.   
+<img src="https://github.com/Jesper-Berg/AIDGrupp7/blob/master/Pictures/f-shaped-pattern-antidote.png?raw=true" class="center" width="30%">
 
 ### COOKR App Orientation
 
