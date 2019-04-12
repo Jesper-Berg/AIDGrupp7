@@ -47,7 +47,7 @@ For this reason our Brand Name Font have own some of this charecteristicts. We w
    The take away is that we need a balance between Fitt's Law and white space. Also that the micro white space is important for the user to easily read the content.
 * [F-Shaped Pattern](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/) Our design can affect the pattern scanning. Data suggests that it doesn't have to be F-shaped, it can be avoided through good implementation of design. The F-Shape pattern is a bad way for users to interact and read information in our app, we need to think about good design to avoid this.   
 <p align="center"> 
-<img src="https://github.com/Jesper-Berg/AIDGrupp7/blob/master/Pictures/f-shaped-pattern-antidote.png?raw=true" class="center" width="30%">
+<img src="https://github.com/Jesper-Berg/AIDGrupp7/blob/master/Pictures/f-shaped-pattern-antidote.png?raw=true" class="center" width="40%">
 </p>
 
 ### COOKR App Orientation
