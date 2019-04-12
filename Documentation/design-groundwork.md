@@ -38,6 +38,8 @@ Brown is also a very [neutral color](https://www-emeraldinsight-com.ludwig.lub.l
 <img src="https://github.com/Jesper-Berg/AIDGrupp7/blob/master/Pictures/brown-color.png?raw=true" class="center" width="60%">
 </p>
 
+https://journals-sagepub-com.ludwig.lub.lu.se/doi/10.1177/1470593106061263
+
 ### Logo Design
 
 * [The Power of White Spaces](https://www.interaction-design.org/literature/article/the-power-of-white-space) article talks about how important white space is to the design.
