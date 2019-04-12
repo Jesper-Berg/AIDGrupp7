@@ -8,6 +8,7 @@ This is some of the sources that we will be taking into account while designing 
 
 * [HaptiMap](https://moodle.lth.se/pluginfile.php/38920/mod_resource/content/1/HaptiMap%20example%20apps.pdf) on page 31,
 how to make including button design for everyone. Possible to let blind people make us of the app (probably mostly the timer).   
+
   <img src="https://github.com/Jesper-Berg/AIDGrupp7/blob/master/Pictures/blind-design.png?raw=true" align="middle" width="30%">
 * [Ljud och Metod](https://moodle.lth.se/pluginfile.php/43550/mod_resource/content/1/Ljud%20o%20metod.pdf) Lecture notes on
 using sounds as a way of informing the user of different actions and processes in a product. No conclusions yet, also touches on the subject above if we want to convert words to sounds.
