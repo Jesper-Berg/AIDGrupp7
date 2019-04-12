@@ -19,4 +19,18 @@ using sounds as a way of informing the user of different actions and processes i
 ## Visual Design
 This section will contain some data on why we have picked different visual design options.
 
-### Color theme
+### Color Theme
+
+* [Consumer preferences for color combinations](https://www.sciencedirect.com/science/article/abs/pii/S1057740810000793), this article came up with three key findings: First, people de-emphasize lightness and focus on hue and saturation. Second, given this shift in emphasis, people generally like to combine colors that are relatively close or exactly match, with the exception that some people highlight one signature product component by using contrastive color. Third, a small palette principle is supported such that the total number of colors used in the average design was smaller than would be expected under statistical independence.   
+From this, we can draw the conclusion that the color theme nees to have a small palette with lightness hue and saturation of colors close to each other. To make something pop in the design you can use a contrasive color.
+
+* 
+
+### Logo Design
+'
+
+### COOKR App Layout
+
+
+### COOKR App Orientation
+
