@@ -32,9 +32,16 @@ This section will contain some data on why we have picked different visual desig
    This means we need a visual hierarchy for our site, this will help the user easier orientate the different menus in an app.
 * [Confidence of Color Design](https://www.studiopress.com/color-design-confidence/) A small article from Studiopress about picking colors for good user design. Recommending the webpage for [Adobe Kuler](https://color.adobe.com/sv/create) which heöps you build a good pallete for your design.
 
+Colorblindness is another important factor when deciding the right color for the app. Our decission is that all humans can see the color brown (if they are not blind), a color scheme with brown might be a good choice. 
+
 ### Logo Design
 
-* [The Power of White Spaces](https://www.interaction-design.org/literature/article/the-power-of-white-space) article talks about how important white space is to the design. 
+* [The Power of White Spaces](https://www.interaction-design.org/literature/article/the-power-of-white-space) article talks about how important white space is to the design.
+* [The Shape of a Logo](https://www.psychologicalscience.org/news/minds-business/the-shape-of-a-logo-has-a-powerful-impact-on-consumers120911.html) The effect a round logo has on consumers. It seems it makes consumers connect the company or product as caring, warm and sensetive to customer needs.   
+   Reference: Jiang, Y., Gorn, G. J., Galli, M., & Chattopadhyay, A. (2015). Does Your Company Have the Right Logo? How and Why Circular-and Angular-Logo Shapes Influence Brand Attribute Judgments. Journal of Consumer Research. doi: 10.1093/jcr/ucv049
+* [A Role of Brand Logos](https://pdfs.semanticscholar.org/d1d9/787eea6930a37e06d26b7f25b96e458ec7cc.pdf) The importance of a distinguishable and aestethic logo. This is the first encounter with the product and does fall victim to the bias of the consumer. Therefore it is important to create a good logo. The results seems to imply that brand logos with a visual symbol fair better then only a brand name. The article also mentions the importance of letting the brand logo speak to the consumer what it is about. Therefore it has to somewhat relate to the product. It also mentions that how the logo is designed (color, shape, size, etc.) does matter but was not included in the scope of the article.
+
+The logo should use some visual symbol along with a brand name, and it would need to somewhat relate to the product, therefore we decided on the egg-timer, a common tool in different kinds of cooking methods. The name COOKR makes a unique, short therefore easily to remember product name while also relating to the product.
 
 For this reason our Brand Name Font have own some of this charecteristicts. We went with [Abel](https://fonts.google.com/specimen/Abel), it has a clean design, some space between letters. We used capital letters since this will make the brand name highlighted and therefore more memorable. A popular font for newspapers and websites in the US with Abel being featured in more than 420 000 websites.
 
