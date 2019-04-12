@@ -31,14 +31,15 @@ This section will contain some data on why we have picked different visual desig
 * [Button Color A/B Test:](https://blog.hubspot.com/blog/tabid/6307/bid/20566/the-button-color-a-b-test-red-beats-green.aspx?__hstc=238111519.962597c91f0224eee7e08e313944d55b.1555081310945.1555081310945.1555081310945.1&__hssc=238111519.1.1555081310946&__hsfp=2896097832) Red Beats Green. A blog presenting a test made for a particular website to observe the different traffic for different colored buttons. The red one won over the green one in traffic with 21%, the conclusion was that it standed out more than the regular green button which is a default design for most webpages.   
    This means we need a visual hierarchy for our site, this will help the user easier orientate the different menus in an app.
 * [Confidence of Color Design](https://www.studiopress.com/color-design-confidence/) A small article from Studiopress about picking colors for good user design. Recommending the webpage for [Adobe Kuler](https://color.adobe.com/sv/create) which heöps you build a good pallete for your design.
+* [The interactive effects of colors](https://journals-sagepub-com.ludwig.lub.lu.se/doi/10.1177/1470593106061263), article explaining how blue, green, red, white, black, and brown are precieved as cultural invariant. This seems to prove to give more opportunity for standardization in other countries (page 80).
 
 Colorblindness is another important factor when deciding the right color for the app. Our decission is that all humans can see the color brown (if they are not blind), a color scheme with brown might be a good choice.
 Brown is also a very [neutral color](https://www-emeraldinsight-com.ludwig.lub.lu.se/doi/pdfplus/10.1108/00251740610673332) (page 787), which means it won't affect the user in an unexpected way for the user experience. At the same time, hues of brown makes a product be precieved as competent in this [article](http://content.ebscohost.com/ContentServer.asp?T=P&P=AN&K=78065194&S=R&D=bth&EbscoContent=dGJyMMTo50Sep7A4v%2BbwOLCmr1Gep7FSs6e4SLaWxWXS&ContentCustomer=dGJyMPGpt0mwqrBRuePfgeyx43zx) (page 714). See below picture from same page from the same article:
 <p align="center"> 
 <img src="https://github.com/Jesper-Berg/AIDGrupp7/blob/master/Pictures/brown-color.png?raw=true" class="center" width="60%">
 </p>
+Also according to our sources brown does seem to be culturally invariant.
 
-https://journals-sagepub-com.ludwig.lub.lu.se/doi/10.1177/1470593106061263
 
 ### Logo Design
 
@@ -64,4 +65,4 @@ For this reason our Brand Name Font have own some of this charecteristicts. We w
 </p>
 
 ### COOKR App Orientation
-
+TBC?? Do we have any sources?
