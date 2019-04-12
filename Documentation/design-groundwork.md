@@ -32,7 +32,11 @@ This section will contain some data on why we have picked different visual desig
    This means we need a visual hierarchy for our site, this will help the user easier orientate the different menus in an app.
 * [Confidence of Color Design](https://www.studiopress.com/color-design-confidence/) A small article from Studiopress about picking colors for good user design. Recommending the webpage for [Adobe Kuler](https://color.adobe.com/sv/create) which heöps you build a good pallete for your design.
 
-Colorblindness is another important factor when deciding the right color for the app. Our decission is that all humans can see the color brown (if they are not blind), a color scheme with brown might be a good choice. 
+Colorblindness is another important factor when deciding the right color for the app. Our decission is that all humans can see the color brown (if they are not blind), a color scheme with brown might be a good choice.
+Brown is also a very [neutral color](https://www-emeraldinsight-com.ludwig.lub.lu.se/doi/pdfplus/10.1108/00251740610673332) (page 787), which means it won't affect the user in an unexpected way for the user experience. At the same time, hues of brown makes a product be precieved as competent in this [article](http://content.ebscohost.com/ContentServer.asp?T=P&P=AN&K=78065194&S=R&D=bth&EbscoContent=dGJyMMTo50Sep7A4v%2BbwOLCmr1Gep7FSs6e4SLaWxWXS&ContentCustomer=dGJyMPGpt0mwqrBRuePfgeyx43zx) (page 714). See below picture from same page from the same article:
+<p align="center"> 
+<img src="https://github.com/Jesper-Berg/AIDGrupp7/blob/master/Pictures/brown-color.png?raw=true" class="center" width="60%">
+</p>
 
 ### Logo Design
 
