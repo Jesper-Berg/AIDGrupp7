@@ -8,8 +8,9 @@ This is some of the sources that we will be taking into account while designing 
 
 * [HaptiMap](https://moodle.lth.se/pluginfile.php/38920/mod_resource/content/1/HaptiMap%20example%20apps.pdf) on page 31,
 how to make including button design for everyone. Possible to let blind people make us of the app (probably mostly the timer).   
-
+<p align="center"> 
   <img src="https://github.com/Jesper-Berg/AIDGrupp7/blob/master/Pictures/blind-design.png?raw=true" class="center" width="30%">
+</p>
 * [Ljud och Metod](https://moodle.lth.se/pluginfile.php/43550/mod_resource/content/1/Ljud%20o%20metod.pdf) Lecture notes on
 using sounds as a way of informing the user of different actions and processes in a product. No conclusions yet, also touches on the subject above if we want to convert words to sounds.
 * [Gestures](https://moodle.lth.se/pluginfile.php/43103/mod_resource/content/1/Gestures.pdf), lecture on gestures. Since it is
@@ -45,7 +46,9 @@ For this reason our Brand Name Font have own some of this charecteristicts. We w
 * [The Power of White Spaces](https://www.interaction-design.org/literature/article/the-power-of-white-space) article talks about how important white space is to the design.   
    The take away is that we need a balance between Fitt's Law and white space. Also that the micro white space is important for the user to easily read the content.
 * [F-Shaped Pattern](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/) Our design can affect the pattern scanning. Data suggests that it doesn't have to be F-shaped, it can be avoided through good implementation of design. The F-Shape pattern is a bad way for users to interact and read information in our app, we need to think about good design to avoid this.   
+<p align="center"> 
 <img src="https://github.com/Jesper-Berg/AIDGrupp7/blob/master/Pictures/f-shaped-pattern-antidote.png?raw=true" class="center" width="30%">
+</p>
 
 ### COOKR App Orientation
 
